@@ -1,0 +1,12 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/guest.css": "/css/guest.css",
+    "/js/css.helper.js": "/js/css.helper.js",
+    "/js/guest.js": "/js/guest.js",
+    "/js/helper.js": "/js/helper.js",
+    "/js/layouts/guest.layout.js": "/js/layouts/guest.layout.js",
+    "/js/pages/init.page.js": "/js/pages/init.page.js",
+    "/js/vue/app.js": "/js/vue/app.js",
+    "/css/shared.css": "/css/shared.css"
+}

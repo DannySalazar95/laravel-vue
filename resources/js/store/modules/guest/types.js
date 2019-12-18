@@ -1,0 +1,2 @@
+
+export const GUEST_UPDATE = 'GUEST_UPDATE'
